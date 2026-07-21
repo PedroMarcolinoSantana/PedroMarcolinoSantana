@@ -77,13 +77,10 @@ I'm passionate about turning complex data into **visual stories** and **insights
 
 ## 🚀 Philosophy
 
-> _"Code is not just about solving problems.  
-> It's about building solutions that scale, last, and generate real value."_
+> _"Data is not just about numbersa and charts.  
+> It's about revealing insights that drive smart decisions and generate real value."_
 
 ---
-
-⭐ If you like my work, consider starring a repository  
-🤝 Always open to collaborations, partnerships, and cool ideas
 
 
 <!--
