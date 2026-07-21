@@ -1,7 +1,7 @@
 # Hi 👋, I'm Pedro Marcolino
 
 🚀 **Data Analyst | SQL, Python & Power BI Specialist**  
-🇧🇷 Brazil
+:brazil: Brazil
 
 I build **interactive dashboards**, **data pipelines**, and **business intelligence solutions**.  
 I’m deeply focused on **data modeling, exploratory analysis, key business metrics**, and **data-driven insights**.
@@ -63,15 +63,6 @@ I'm passionate about turning complex data into **visual stories** and **insights
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PedroMarcolinoSantana&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMarcolinoSantana&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
